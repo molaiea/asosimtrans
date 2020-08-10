@@ -1,0 +1,44 @@
+{
+  "name": "asosimtrans",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.5.0",
+    "@testing-library/user-event": "^7.2.1",
+    "bootstrap": "^4.5.0",
+    "mdbreact": "^4.27.0",
+    "netlify": "^4.3.10",
+    "netlify-cli": "^2.59.0",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.2.2",
+    "react-dom": "^16.13.1",
+    "react-icons": "^3.10.0",
+    "react-responsive-navbar": "^1.0.11",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "3.4.1",
+    "react-tilt": "^0.1.4",
+    "reactjs-popup": "^1.5.0",
+    "tachyons": "^4.12.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "start": "react-scripts start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/molaiea/asosimtrans.git"
+  },
+  "author": "nafissa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/molaiea/asosimtrans/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
+  },
+  "homepage": "https://github.com/molaiea/asosimtrans#readme"
+}
