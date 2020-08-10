@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/molaiea/asosimtransstatic/css/main.325ff9ba.chunk.css",
+    "main.js": "/molaiea/asosimtransstatic/js/main.fee327fc.chunk.js",
+    "main.js.map": "/molaiea/asosimtransstatic/js/main.fee327fc.chunk.js.map",
+    "runtime-main.js": "/molaiea/asosimtransstatic/js/runtime-main.b924cdc2.js",
+    "runtime-main.js.map": "/molaiea/asosimtransstatic/js/runtime-main.b924cdc2.js.map",
+    "static/css/2.1443f837.chunk.css": "/molaiea/asosimtransstatic/css/2.1443f837.chunk.css",
+    "static/js/2.6727351a.chunk.js": "/molaiea/asosimtransstatic/js/2.6727351a.chunk.js",
+    "static/js/2.6727351a.chunk.js.map": "/molaiea/asosimtransstatic/js/2.6727351a.chunk.js.map",
+    "index.html": "/molaiea/asosimtransindex.html",
+    "precache-manifest.cff2bd1effade8a8d845c89c3b7c7300.js": "/molaiea/asosimtransprecache-manifest.cff2bd1effade8a8d845c89c3b7c7300.js",
+    "service-worker.js": "/molaiea/asosimtransservice-worker.js",
+    "static/css/2.1443f837.chunk.css.map": "/molaiea/asosimtransstatic/css/2.1443f837.chunk.css.map",
+    "static/css/main.325ff9ba.chunk.css.map": "/molaiea/asosimtransstatic/css/main.325ff9ba.chunk.css.map",
+    "static/js/2.6727351a.chunk.js.LICENSE.txt": "/molaiea/asosimtransstatic/js/2.6727351a.chunk.js.LICENSE.txt",
+    "static/media/admin-ui.png": "/molaiea/asosimtransstatic/media/admin-ui.6c996dc7.png",
+    "static/media/mdb.css": "/molaiea/asosimtransstatic/media/arrow_right.8ef6a08c.svg",
+    "static/media/App.css": "/molaiea/asosimtransstatic/media/logo.587278fa.svg",
+    "static/media/error.svg": "/molaiea/asosimtransstatic/media/error.04ee408b.svg",
+    "static/media/all.min.css": "/molaiea/asosimtransstatic/media/fa-solid-900.ee09ad75.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b924cdc2.js",
+    "static/css/2.1443f837.chunk.css",
+    "static/js/2.6727351a.chunk.js",
+    "static/css/main.325ff9ba.chunk.css",
+    "static/js/main.fee327fc.chunk.js"
+  ]
+}
